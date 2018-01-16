@@ -8,7 +8,7 @@ Android Project for CustomCalendarView with event badges.
 
 
 
-##Usage
+## Usage
 
 ###### Include dependencie
 
@@ -28,7 +28,7 @@ dependencies {
         app:cellSize="80" />
 ```
 
-###Customization
+### Customization
 
 **CellSize**
 
